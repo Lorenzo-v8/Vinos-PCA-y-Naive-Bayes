@@ -53,4 +53,4 @@ Librerías: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 Autor
 
-Lorenzo, estudiante de Ciencia de Datos (Universidad Nacional Guillermo Brown).
+Lorenzo Ciprés, estudiante de Ciencia de Datos (Universidad Nacional Guillermo Brown).
